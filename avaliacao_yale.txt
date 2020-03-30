@@ -1,0 +1,116 @@
+# Avalicao de Confiabilidade de Algoritmos
+====================================================================================
+# Algortimo Eigen Faces:
+
+1 foi classificado como -1 - 1.7976931348623157e+308
+1 foi classificado como 1 - 2405.377580766469
+2 foi classificado como -1 - 1.7976931348623157e+308
+2 foi classificado como -1 - 1.7976931348623157e+308
+3 foi classificado como 3 - 7699.226133284657
+3 foi classificado como -1 - 1.7976931348623157e+308
+4 foi classificado como -1 - 1.7976931348623157e+308
+4 foi classificado como 4 - 2535.4429702313605
+5 foi classificado como 5 - 772.0184302050786
+5 foi classificado como 5 - 2445.0004920439387
+6 foi classificado como 6 - 2110.4852470298138
+6 foi classificado como -1 - 1.7976931348623157e+308
+7 foi classificado como -1 - 1.7976931348623157e+308
+7 foi classificado como -1 - 1.7976931348623157e+308
+8 foi classificado como 8 - 0.0
+8 foi classificado como -1 - 1.7976931348623157e+308
+9 foi classificado como -1 - 1.7976931348623157e+308
+9 foi classificado como 9 - 5803.197254486636
+10 foi classificado como -1 - 1.7976931348623157e+308
+10 foi classificado como 10 - 1018.0311673851904
+11 foi classificado como 11 - 7576.480003066836
+11 foi classificado como 11 - 6194.780069033743
+12 foi classificado como 12 - 0.0
+12 foi classificado como 12 - 7040.829112440523
+13 foi classificado como 13 - 1370.8737334877833
+13 foi classificado como 13 - 2239.495354679012
+14 foi classificado como 14 - 0.0
+14 foi classificado como 14 - 2690.230453251547
+15 foi classificado como 7 - 7985.9071297600785
+15 foi classificado como 15 - 1673.7985319252132
+====================================================================================
+Total de acertos: 18 de 30
+Percentual de acerto: 60.0%
+Total confianca: 2976.403696295433
+====================================================================================
+
+# Algortimo Fisher Faces:
+
+1 foi classificado como 1 - 589.8645079793948
+1 foi classificado como 1 - 256.43058224028505
+2 foi classificado como 2 - 404.9998986725678
+2 foi classificado como 2 - 556.2210547276595
+3 foi classificado como 7 - 776.4400380725099
+3 foi classificado como 14 - 1361.6329822568564
+4 foi classificado como 1 - 1002.5327181315782
+4 foi classificado como 4 - 114.92884959262975
+5 foi classificado como 5 - 102.43296509838201
+5 foi classificado como 5 - 303.4247063754669
+6 foi classificado como 6 - 107.85143934400705
+6 foi classificado como -1 - 1.7976931348623157e+308
+7 foi classificado como 7 - 567.6392441949304
+7 foi classificado como 7 - 864.9606762325815
+8 foi classificado como 8 - 0.0
+8 foi classificado como 1 - 1101.0850915993756
+9 foi classificado como 9 - 537.3976082324614
+9 foi classificado como 9 - 984.4294646750842
+10 foi classificado como 10 - 638.859883462296
+10 foi classificado como 10 - 65.92143110747907
+11 foi classificado como 11 - 421.830950123853
+11 foi classificado como 11 - 790.9317891775464
+12 foi classificado como 12 - 0.0
+12 foi classificado como 12 - 687.7389973976418
+13 foi classificado como 13 - 201.06367226618437
+13 foi classificado como 13 - 253.86162002645756
+14 foi classificado como 14 - 0.0
+14 foi classificado como 14 - 506.6950111992313
+15 foi classificado como 15 - 1504.0518285077828
+15 foi classificado como 15 - 320.8162205667412
+====================================================================================
+Total de acertos: 25 de 30
+Percentual de acerto: 83.33333333333334%
+Total confianca: 431.2940960480266
+====================================================================================
+
+# Algortimo LBPH Faces:
+
+1 foi classificado como 1 - 4.270603963911659
+1 foi classificado como 1 - 0.6276973523734034
+2 foi classificado como 1 - 4.07652520279573
+2 foi classificado como 5 - 4.437369085159193
+3 foi classificado como 3 - 2.387331658937181
+3 foi classificado como 10 - 4.570718385977049
+4 foi classificado como 5 - 4.85103315127951
+4 foi classificado como 4 - 0.34246872977229176
+5 foi classificado como 5 - 0.09455598772734626
+5 foi classificado como 5 - 0.3487654410421488
+6 foi classificado como 6 - 0.2073653562901314
+6 foi classificado como 14 - 8.464535854652897
+7 foi classificado como 7 - 1.4803958218665625
+7 foi classificado como 9 - 4.651501623687293
+8 foi classificado como 8 - 0.0
+8 foi classificado como 4 - 5.798587750672518
+9 foi classificado como 7 - 4.1734443178578715
+9 foi classificado como 9 - 0.7853879944172197
+10 foi classificado como 4 - 3.6280824731921144
+10 foi classificado como 10 - 0.20665637033312195
+11 foi classificado como 11 - 1.4039788683088053
+11 foi classificado como 11 - 1.0541467890301504
+12 foi classificado como 12 - 0.0
+12 foi classificado como 10 - 10.713165817611456
+13 foi classificado como 13 - 0.2369450547678531
+13 foi classificado como 13 - 0.23672068296659893
+14 foi classificado como 14 - 0.0
+14 foi classificado como 14 - 0.9095361167338135
+15 foi classificado como 7 - 5.680362288945825
+15 foi classificado como 15 - 0.334639310334358
+====================================================================================
+Total de acertos: 19 de 30
+Percentual de acerto: 63.33333333333333%
+Total confianca: 0.7856418683585602
+====================================================================================
+
